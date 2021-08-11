@@ -1,6 +1,6 @@
-# Примеры нотбуков
+# Examples of my Notebooks
 
-В обучении Machine Learning мне помогали:
+В обучении Machine Learning мне помогали (ML books I have read):
 
 Mathematics for Machine Learning By Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong - лучшая книга для того чтобы освежить знания по математике
 
